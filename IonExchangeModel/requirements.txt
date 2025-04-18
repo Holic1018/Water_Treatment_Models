@@ -1,5 +1,7 @@
+ipykernel
 numpy
 openpyxl
 pandas
 scipy
 xlrd
+matploblib
